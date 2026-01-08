@@ -8,23 +8,23 @@ By leveraging data science, statistical analysis, and predictive modeling, this 
 
 Acquiring new customers is significantly more expensive than retaining existing ones. Businesses often struggle to identify early signs of customer churn due to large volumes of customer data and complex behavioral patterns.
 
-# Objective:
+# Objective
 To build an accurate and reliable machine learning model that predicts whether a customer is likely to churn, enabling businesses to improve customer retention and reduce revenue loss.
 # Solution Approach
 
 This project follows an end-to-end machine learning workflow:
 
-1 Data Collection and Understanding
+1- Data Collection and Understanding
 
-2 Data Preprocessing and Cleaning
+2- Data Preprocessing and Cleaning
 
-3 Exploratory Data Analysis (EDA)
+3- Exploratory Data Analysis (EDA)
 
-4 Feature Engineering
+4- Feature Engineering
 
-5 Model Training and Evaluation
+5- Model Training and Evaluation
 
-6 Insight Generation and Reporting
+6- Insight Generation and Reporting
 
 A Random Forest Classifier was selected due to its robustness, ability to handle non-linear data, and strong performance on structured datasets.
 
@@ -110,6 +110,7 @@ Banking and finance customer retention analysis
 SaaS and subscription-based business optimization
 
 Marketing teams targeting retention campaigns
+
 # Project Highlights
 
 National-level, real-world business problem
