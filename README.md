@@ -58,7 +58,6 @@ Data Type: Structured customer data
 
 Features Include: Demographics, service usage, account information
 
-(Dataset used strictly for educational and analytical purposes.)
 
 # Exploratory Data Analysis (EDA)
 
